@@ -14,7 +14,7 @@ namespace CICDDemoApi.Controllers
             {
                 status = "Healthy",
                 application = "CICDDemoApi",
-                version = "1.0"
+                version = "2.0"
             });
         }
     }
